@@ -3,3 +3,5 @@
 3.Over
 4.Starcr
 5.Warcr
+6.Diablo
+7.Heroes
